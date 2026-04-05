@@ -46,7 +46,8 @@ Com base na análise de mais de **2.790 registros**, destacam-se os seguintes po
 │   ├── Flavors_of_cacao_2006_2024_report.pbix  # Arquivo do Power BI
 │   ├── Flavors_of_cacao_2006_2024_report.png   # Screenshot do Dashboard
 │   └── Flavors_of_cacao_2006_2024_report.pdf   # Relatório em PDF
-└── README.md
+├── README.md
+└── requirements.txt
 ```
 
 ---
