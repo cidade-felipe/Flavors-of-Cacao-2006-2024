@@ -205,3 +205,4 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+data/datasets/flavors_of_cacao/flavors-of-cacao-2025.csv
